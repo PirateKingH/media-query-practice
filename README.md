@@ -22,7 +22,3 @@ Grasped concepts like:
 - Responsive design
 - Viewport meta tag
 - Flexbox and scaling units
-
----
-
-✅ Submitted as part of the Web Development Internship Task 4.
